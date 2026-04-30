@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamajaypokharel
 - 👀 I’m interested in reading writing playing ..
-- 🌱 I’m currently learning .BSC CSIT ..
+- 🌱 I have graduated from BSC CSIT ..
 - 💞️ I’m looking to collaborate on networking and coding  ...
 - 📫 How to reach me through my email/fb/insta ...
 

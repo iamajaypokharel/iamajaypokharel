@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamajaypokharel
 - 👀 I’m interested in reading writing playing and coding 
 - 🌱 I have graduated from BSC CSIT ..
-- 💞️ I’m looking to collaborate on networking and coding  ...
+- 💞️ I’m looking to collaborate on devops networking and coding  ...
 - 📫 How to reach me through my email/fb/insta/linkedin.
 - checkout here @ajaypokharel.com.np
 
